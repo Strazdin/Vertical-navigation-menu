@@ -1,3 +1,12 @@
 * {
     font-family: 'Segoe UI', sans-serif;
 }
+
+#navigation_menu {
+    width: 300px;
+    list-style-type: none;
+}
+
+#navigation_menu li > a {
+    display: block;
+}
