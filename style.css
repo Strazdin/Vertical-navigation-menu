@@ -1,9 +1,5 @@
-* {
-    font-family: 'Segoe UI', sans-serif;
-}
-
 #navigation_menu {
-    width: 300px;
+    width: fit-content;
     list-style-type: none;
     margin: 20px 40px;
     padding: 0;
@@ -30,4 +26,24 @@
     font-size: 150%;
     background-size: 85px;
     background-position: 2px 3px;
+}
+
+#edit {
+    background-image: url('icons/edit.png');
+}
+
+#favorites{
+    background-image: url('icons/favorites.png');
+}
+
+#history{
+    background-image: url('icons/history.png');
+}
+
+#security{
+    background-image: url('icons/security.png');
+}
+
+#settings{
+    background-image: url('icons/settings.png');
 }
