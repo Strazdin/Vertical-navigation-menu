@@ -5,6 +5,8 @@
 #navigation_menu {
     width: 300px;
     list-style-type: none;
+    margin: 20px 40px;
+    padding: 0;
 }
 
 #navigation_menu li > a {
