@@ -12,4 +12,9 @@
 #navigation_menu li > a {
     display: block;
     padding: 30px 55px 30px 80px;
+
+    background-color: #808080;
+    background-repeat: no-repeat;
+    background-size: 55px;
+    background-position: 12px 13px;
 }
