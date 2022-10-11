@@ -17,4 +17,10 @@
     background-repeat: no-repeat;
     background-size: 55px;
     background-position: 12px 13px;
+
+    font-family: "Courier New", monospace;
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+    transition: 0.5s;
 }
