@@ -13,14 +13,21 @@
     display: block;
     padding: 30px 55px 30px 80px;
 
-    background-color: #808080;
+    background-color: hsl(90, 50%, 32%);
     background-repeat: no-repeat;
     background-size: 55px;
     background-position: 12px 13px;
 
     font-family: "Courier New", monospace;
     text-transform: uppercase;
-    color: white;
+    color: rgb(42, 145, 112);
     text-decoration: none;
     transition: 0.5s;
+}
+
+#navigation_menu a:hover {
+    background-color: hsl(90, 76%, 15%);
+    font-size: 150%;
+    background-size: 85px;
+    background-position: 2px 3px;
 }
